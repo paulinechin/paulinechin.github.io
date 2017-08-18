@@ -449,5 +449,5 @@ there.
 .resumetitle span { background:#fff; padding:0 20px; }
 
 /* Fixing some Icon Alignment issue */
-.fa-lg {vertical-align: 0%;}
+.fa-lg {vertical-align: 0%; margin-left: 2.5%}
 .alignright {text-align:right;}
