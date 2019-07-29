@@ -2729,7 +2729,7 @@ ul.filters li p:hover {
 	color: #fff;
 	text-shadow: none;
 }
-/* Limit lightbox images that are wider than the screen,
+/* Limit lightbox  that are wider than the screen,
  * to fit within the resolution */
 #portfolio-item .lb-container img {
   display: block;
