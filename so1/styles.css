@@ -1,0 +1,97 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  margin: 0 10%;
+}
+
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.nuetral {
+  background-color: #EFF6EE;
+  color: #0D0426;
+}
+
+.rojo {
+  background-color: #dd0426;
+  color: #0D0426;
+}
+.strawberry {
+  background-color: #F02D3A;
+  color: #0D0426;
+}
+
+.persian-gray{
+  background-color: #273043;
+  color: #fff;
+}
+
+.cool-gray {
+  background-color: #9197AE;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.nunito {
+  font-family: 'Nunito', sans-serif;
+}
+
+.anonymous-pro {
+  font-family: 'Anonymous Pro', monospace;
+}
+
+.antic {
+  font-family: 'Antic Slab', sans-serif;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Antic Slab', sans-serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Antic Slab', sans-serif;
+}
